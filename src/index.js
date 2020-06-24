@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons'
 
-document.title = 'Face Recognition App'
+document.title = 'Face Recognition'
 ReactDOM.render(
     <App />,
   document.getElementById('root')
